@@ -1,0 +1,44 @@
+{
+ "mssv": "202603294",
+ "ten": "TrieuHoangHieu",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "hieuwewe123",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000019754.jpg",
+  "000000261732.jpg",
+  "000000295358.jpg",
+  "000000451084.jpg",
+  "000000493741.jpg",
+  "000000467300.jpg",
+  "000000516902.jpg",
+  "000000571665.jpg",
+  "000000351176.jpg",
+  "000000359340.jpg",
+  "000000438099.jpg",
+  "000000326480.jpg"
+ ],
+ "faces": [
+  "face_261458.jpg",
+  "face_85624.jpg",
+  "face_92028.jpg",
+  "face_137371.jpg",
+  "face_449454.jpg",
+  "face_178208.jpg",
+  "face_99874.jpg",
+  "face_38721.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 16,
+   "job_id": 16,
+   "task_name": "persons-TrieuHoangHieu"
+  },
+  "faces": {
+   "task_id": 17,
+   "job_id": 17,
+   "task_name": "faces-TrieuHoangHieu"
+  }
+ }
+}
+
